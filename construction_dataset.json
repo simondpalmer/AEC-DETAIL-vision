@@ -1,0 +1,340 @@
+[
+  {
+    "id": "construction_0",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-01.pdf</img>\nCan you explain what this drawing shows?"
+      },
+      {
+        "from": "assistant",
+        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+      }
+    ]
+  },
+  {
+    "id": "construction_1",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-02.pdf</img>\nCan you explain what this drawing shows?"
+      },
+      {
+        "from": "assistant",
+        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+      }
+    ]
+  },
+  {
+    "id": "construction_2",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-03.pdf</img>\nCan you explain what this drawing shows?"
+      },
+      {
+        "from": "assistant",
+        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+      }
+    ]
+  },
+  {
+    "id": "construction_3",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-04.pdf</img>\nCan you explain what this drawing shows?"
+      },
+      {
+        "from": "assistant",
+        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+      }
+    ]
+  },
+  {
+    "id": "construction_4",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-05.pdf</img>\nCan you explain what this drawing shows?"
+      },
+      {
+        "from": "assistant",
+        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+      }
+    ]
+  },
+  {
+    "id": "construction_5",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-06.pdf</img>\nCan you explain what this drawing shows?"
+      },
+      {
+        "from": "assistant",
+        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+      }
+    ]
+  },
+  {
+    "id": "construction_6",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-07.pdf</img>\nCan you explain what this drawing shows?"
+      },
+      {
+        "from": "assistant",
+        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+      }
+    ]
+  },
+  {
+    "id": "construction_7",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-08.pdf</img>\nCan you explain what this drawing shows?"
+      },
+      {
+        "from": "assistant",
+        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+      }
+    ]
+  },
+  {
+    "id": "construction_8",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-09.pdf</img>\nCan you explain what this drawing shows?"
+      },
+      {
+        "from": "assistant",
+        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+      }
+    ]
+  },
+  {
+    "id": "construction_9",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-10.pdf</img>\nCan you explain what this drawing shows?"
+      },
+      {
+        "from": "assistant",
+        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+      }
+    ]
+  },
+  {
+    "id": "construction_10",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-11.pdf</img>\nCan you explain what this drawing shows?"
+      },
+      {
+        "from": "assistant",
+        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+      }
+    ]
+  },
+  {
+    "id": "construction_11",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-12.pdf</img>\nCan you explain what this drawing shows?"
+      },
+      {
+        "from": "assistant",
+        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+      }
+    ]
+  },
+  {
+    "id": "construction_12",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-13.pdf</img>\nCan you explain what this drawing shows?"
+      },
+      {
+        "from": "assistant",
+        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+      }
+    ]
+  },
+  {
+    "id": "construction_13",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-14.pdf</img>\nCan you explain what this drawing shows?"
+      },
+      {
+        "from": "assistant",
+        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+      }
+    ]
+  },
+  {
+    "id": "construction_14",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-15.pdf</img>\nCan you explain what this drawing shows?"
+      },
+      {
+        "from": "assistant",
+        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+      }
+    ]
+  },
+  {
+    "id": "construction_15",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-16.pdf</img>\nCan you explain what this drawing shows?"
+      },
+      {
+        "from": "assistant",
+        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+      }
+    ]
+  },
+  {
+    "id": "construction_16",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-17.pdf</img>\nCan you explain what this drawing shows?"
+      },
+      {
+        "from": "assistant",
+        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+      }
+    ]
+  },
+  {
+    "id": "construction_17",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-18.pdf</img>\nCan you explain what this drawing shows?"
+      },
+      {
+        "from": "assistant",
+        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+      }
+    ]
+  },
+  {
+    "id": "construction_18",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-19.pdf</img>\nCan you explain what this drawing shows?"
+      },
+      {
+        "from": "assistant",
+        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+      }
+    ]
+  },
+  {
+    "id": "construction_19",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-20.pdf</img>\nCan you explain what this drawing shows?"
+      },
+      {
+        "from": "assistant",
+        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+      }
+    ]
+  },
+  {
+    "id": "construction_20",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-21.pdf</img>\nCan you explain what this drawing shows?"
+      },
+      {
+        "from": "assistant",
+        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+      }
+    ]
+  },
+  {
+    "id": "construction_21",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-22.pdf</img>\nCan you explain what this drawing shows?"
+      },
+      {
+        "from": "assistant",
+        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+      }
+    ]
+  },
+  {
+    "id": "construction_22",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-23.pdf</img>\nCan you explain what this drawing shows?"
+      },
+      {
+        "from": "assistant",
+        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+      }
+    ]
+  },
+  {
+    "id": "construction_23",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-24.pdf</img>\nCan you explain what this drawing shows?"
+      },
+      {
+        "from": "assistant",
+        "value": "The specification for Architectural Symbols can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+      }
+    ]
+  },
+  {
+    "id": "construction_24",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-25.pdf</img>\nCan you explain what this drawing shows?"
+      },
+      {
+        "from": "assistant",
+        "value": "The specification for Architectural Symbols can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+      }
+    ]
+  },
+  {
+    "id": "construction_25",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-26.pdf</img>\nCan you explain what this drawing shows?"
+      },
+      {
+        "from": "assistant",
+        "value": "The specification for Architectural Symbols can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+      }
+    ]
+  }
+]

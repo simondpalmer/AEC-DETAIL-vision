@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "aec-detail-vision"
+version = "0.1.0"
+description = "AEC vision model for technical documents"
+authors = ["Simon Palmer <palmer.simond@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests = "^2.32.3"
+huggingface-hub = "^0.25.2"
+pdf2image = "^1.17.0"
+datasets = "^3.0.1"
+pandas = "^2.2.3"
+transformers = "^4.45.2"
+torch = "^2.5.0"
+pillow = "^11.0.0"
+beautifulsoup4 = "^4.12.3"
+python-dotenv = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
