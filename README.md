@@ -25,4 +25,6 @@ Combined spec and detail data for conversational training dataset:
 | 00 01 15     | List of Drawing Sheets   | https://www.cfm.va.gov/TIL/spec/000110.docx | SD000115-02   |  Architectural Abbr. Cont. | https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-02.pdf |
 
 If you want to publish to Hugging Face you will need to add your token and uncomment the last bit of code.
+Dataset can be found here:
+https://huggingface.co/datasets/simondavidpalmer/AEC-VA-details-spec-dataset
 Enjoy!

@@ -4,11 +4,11 @@
     "conversations": [
       {
         "from": "user",
-        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-01.pdf</img>\nCan you explain what this drawing shows?"
+        "value": "Drawing: <img src='https:\\github.com\\simondpalmer\\AEC-DETAIL-vision\\blob\\main\\output_images\\drawing_0_0.png'></img>\nCan you explain what this drawing shows?"
       },
       {
         "from": "assistant",
-        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+        "value": "The specification List of Drawing Sheets for Architectural Abbreviations can be found in the following document: SECTION 00 01 15\nLIST OF DRAWING SHEETS\nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\tTitle\nSPEC WRITER NOTE: List drawing numbers and titles under the classifications and in the relative order listed below. See Sample Section 00 01 15, LIST OF DRAWINGS on back of this sheet.\n\tSITE PLANNING \n\tSUB-SURFACE \n\tARCHITECTURAL \n\tSTRUCTURAL \n\tSANITARY \n\tEQUIPMENT \n\tPLUMBING \n\tHEATING, VENTILATING, AIR \n\tCONDITIONING AND REFRIGERATION \n\tSTEAM GENERATION \n\tOUTSIDE STEAM DISTRIBUTION \n\tELECTRICAL \n- - - END - - -\n(SAMPLE LIST OF DRAWINGS) \nVAMC (NAME)\t\t\t\t\t\t\t\t\t(SPEC No.) \nSECTION 00 01 15 \nLIST OF DRAWINGS \nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\t\t\t\tTitle \n\tSITE PLANNING \nL1\tSite Plan \nL2\tPlanting Plan \nL3\tSite and Planting Details \n\tARCHITECTURAL \n30-1\tGround Floor Plan \n30-2\tElevations \n30-3\tWall Sections and Details \n30-4\tIndustrial Stair, Dock Leveler, Areaway \n\tSections and Details \n30-5\tReflected Ceiling Plan \n30-6\tSchedules \n- - - E N D - - -"
       }
     ]
   },
@@ -17,11 +17,11 @@
     "conversations": [
       {
         "from": "user",
-        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-02.pdf</img>\nCan you explain what this drawing shows?"
+        "value": "Drawing: <img src='https:\\github.com\\simondpalmer\\AEC-DETAIL-vision\\blob\\main\\output_images\\drawing_1_0.png'></img>\nCan you explain what this drawing shows?"
       },
       {
         "from": "assistant",
-        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+        "value": "The specification List of Drawing Sheets for Architectural Abbreviations can be found in the following document: SECTION 00 01 15\nLIST OF DRAWING SHEETS\nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\tTitle\nSPEC WRITER NOTE: List drawing numbers and titles under the classifications and in the relative order listed below. See Sample Section 00 01 15, LIST OF DRAWINGS on back of this sheet.\n\tSITE PLANNING \n\tSUB-SURFACE \n\tARCHITECTURAL \n\tSTRUCTURAL \n\tSANITARY \n\tEQUIPMENT \n\tPLUMBING \n\tHEATING, VENTILATING, AIR \n\tCONDITIONING AND REFRIGERATION \n\tSTEAM GENERATION \n\tOUTSIDE STEAM DISTRIBUTION \n\tELECTRICAL \n- - - END - - -\n(SAMPLE LIST OF DRAWINGS) \nVAMC (NAME)\t\t\t\t\t\t\t\t\t(SPEC No.) \nSECTION 00 01 15 \nLIST OF DRAWINGS \nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\t\t\t\tTitle \n\tSITE PLANNING \nL1\tSite Plan \nL2\tPlanting Plan \nL3\tSite and Planting Details \n\tARCHITECTURAL \n30-1\tGround Floor Plan \n30-2\tElevations \n30-3\tWall Sections and Details \n30-4\tIndustrial Stair, Dock Leveler, Areaway \n\tSections and Details \n30-5\tReflected Ceiling Plan \n30-6\tSchedules \n- - - E N D - - -"
       }
     ]
   },
@@ -30,11 +30,11 @@
     "conversations": [
       {
         "from": "user",
-        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-03.pdf</img>\nCan you explain what this drawing shows?"
+        "value": "Drawing: <img src='https:\\github.com\\simondpalmer\\AEC-DETAIL-vision\\blob\\main\\output_images\\drawing_2_0.png'></img>\nCan you explain what this drawing shows?"
       },
       {
         "from": "assistant",
-        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+        "value": "The specification List of Drawing Sheets for Architectural Abbreviations can be found in the following document: SECTION 00 01 15\nLIST OF DRAWING SHEETS\nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\tTitle\nSPEC WRITER NOTE: List drawing numbers and titles under the classifications and in the relative order listed below. See Sample Section 00 01 15, LIST OF DRAWINGS on back of this sheet.\n\tSITE PLANNING \n\tSUB-SURFACE \n\tARCHITECTURAL \n\tSTRUCTURAL \n\tSANITARY \n\tEQUIPMENT \n\tPLUMBING \n\tHEATING, VENTILATING, AIR \n\tCONDITIONING AND REFRIGERATION \n\tSTEAM GENERATION \n\tOUTSIDE STEAM DISTRIBUTION \n\tELECTRICAL \n- - - END - - -\n(SAMPLE LIST OF DRAWINGS) \nVAMC (NAME)\t\t\t\t\t\t\t\t\t(SPEC No.) \nSECTION 00 01 15 \nLIST OF DRAWINGS \nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\t\t\t\tTitle \n\tSITE PLANNING \nL1\tSite Plan \nL2\tPlanting Plan \nL3\tSite and Planting Details \n\tARCHITECTURAL \n30-1\tGround Floor Plan \n30-2\tElevations \n30-3\tWall Sections and Details \n30-4\tIndustrial Stair, Dock Leveler, Areaway \n\tSections and Details \n30-5\tReflected Ceiling Plan \n30-6\tSchedules \n- - - E N D - - -"
       }
     ]
   },
@@ -43,11 +43,11 @@
     "conversations": [
       {
         "from": "user",
-        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-04.pdf</img>\nCan you explain what this drawing shows?"
+        "value": "Drawing: <img src='https:\\github.com\\simondpalmer\\AEC-DETAIL-vision\\blob\\main\\output_images\\drawing_3_0.png'></img>\nCan you explain what this drawing shows?"
       },
       {
         "from": "assistant",
-        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+        "value": "The specification List of Drawing Sheets for Architectural Abbreviations can be found in the following document: SECTION 00 01 15\nLIST OF DRAWING SHEETS\nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\tTitle\nSPEC WRITER NOTE: List drawing numbers and titles under the classifications and in the relative order listed below. See Sample Section 00 01 15, LIST OF DRAWINGS on back of this sheet.\n\tSITE PLANNING \n\tSUB-SURFACE \n\tARCHITECTURAL \n\tSTRUCTURAL \n\tSANITARY \n\tEQUIPMENT \n\tPLUMBING \n\tHEATING, VENTILATING, AIR \n\tCONDITIONING AND REFRIGERATION \n\tSTEAM GENERATION \n\tOUTSIDE STEAM DISTRIBUTION \n\tELECTRICAL \n- - - END - - -\n(SAMPLE LIST OF DRAWINGS) \nVAMC (NAME)\t\t\t\t\t\t\t\t\t(SPEC No.) \nSECTION 00 01 15 \nLIST OF DRAWINGS \nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\t\t\t\tTitle \n\tSITE PLANNING \nL1\tSite Plan \nL2\tPlanting Plan \nL3\tSite and Planting Details \n\tARCHITECTURAL \n30-1\tGround Floor Plan \n30-2\tElevations \n30-3\tWall Sections and Details \n30-4\tIndustrial Stair, Dock Leveler, Areaway \n\tSections and Details \n30-5\tReflected Ceiling Plan \n30-6\tSchedules \n- - - E N D - - -"
       }
     ]
   },
@@ -56,11 +56,11 @@
     "conversations": [
       {
         "from": "user",
-        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-05.pdf</img>\nCan you explain what this drawing shows?"
+        "value": "Drawing: <img src='https:\\github.com\\simondpalmer\\AEC-DETAIL-vision\\blob\\main\\output_images\\drawing_4_0.png'></img>\nCan you explain what this drawing shows?"
       },
       {
         "from": "assistant",
-        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+        "value": "The specification List of Drawing Sheets for Architectural Abbreviations can be found in the following document: SECTION 00 01 15\nLIST OF DRAWING SHEETS\nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\tTitle\nSPEC WRITER NOTE: List drawing numbers and titles under the classifications and in the relative order listed below. See Sample Section 00 01 15, LIST OF DRAWINGS on back of this sheet.\n\tSITE PLANNING \n\tSUB-SURFACE \n\tARCHITECTURAL \n\tSTRUCTURAL \n\tSANITARY \n\tEQUIPMENT \n\tPLUMBING \n\tHEATING, VENTILATING, AIR \n\tCONDITIONING AND REFRIGERATION \n\tSTEAM GENERATION \n\tOUTSIDE STEAM DISTRIBUTION \n\tELECTRICAL \n- - - END - - -\n(SAMPLE LIST OF DRAWINGS) \nVAMC (NAME)\t\t\t\t\t\t\t\t\t(SPEC No.) \nSECTION 00 01 15 \nLIST OF DRAWINGS \nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\t\t\t\tTitle \n\tSITE PLANNING \nL1\tSite Plan \nL2\tPlanting Plan \nL3\tSite and Planting Details \n\tARCHITECTURAL \n30-1\tGround Floor Plan \n30-2\tElevations \n30-3\tWall Sections and Details \n30-4\tIndustrial Stair, Dock Leveler, Areaway \n\tSections and Details \n30-5\tReflected Ceiling Plan \n30-6\tSchedules \n- - - E N D - - -"
       }
     ]
   },
@@ -69,11 +69,11 @@
     "conversations": [
       {
         "from": "user",
-        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-06.pdf</img>\nCan you explain what this drawing shows?"
+        "value": "Drawing: <img src='https:\\github.com\\simondpalmer\\AEC-DETAIL-vision\\blob\\main\\output_images\\drawing_5_0.png'></img>\nCan you explain what this drawing shows?"
       },
       {
         "from": "assistant",
-        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+        "value": "The specification List of Drawing Sheets for Architectural Abbreviations can be found in the following document: SECTION 00 01 15\nLIST OF DRAWING SHEETS\nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\tTitle\nSPEC WRITER NOTE: List drawing numbers and titles under the classifications and in the relative order listed below. See Sample Section 00 01 15, LIST OF DRAWINGS on back of this sheet.\n\tSITE PLANNING \n\tSUB-SURFACE \n\tARCHITECTURAL \n\tSTRUCTURAL \n\tSANITARY \n\tEQUIPMENT \n\tPLUMBING \n\tHEATING, VENTILATING, AIR \n\tCONDITIONING AND REFRIGERATION \n\tSTEAM GENERATION \n\tOUTSIDE STEAM DISTRIBUTION \n\tELECTRICAL \n- - - END - - -\n(SAMPLE LIST OF DRAWINGS) \nVAMC (NAME)\t\t\t\t\t\t\t\t\t(SPEC No.) \nSECTION 00 01 15 \nLIST OF DRAWINGS \nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\t\t\t\tTitle \n\tSITE PLANNING \nL1\tSite Plan \nL2\tPlanting Plan \nL3\tSite and Planting Details \n\tARCHITECTURAL \n30-1\tGround Floor Plan \n30-2\tElevations \n30-3\tWall Sections and Details \n30-4\tIndustrial Stair, Dock Leveler, Areaway \n\tSections and Details \n30-5\tReflected Ceiling Plan \n30-6\tSchedules \n- - - E N D - - -"
       }
     ]
   },
@@ -82,11 +82,11 @@
     "conversations": [
       {
         "from": "user",
-        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-07.pdf</img>\nCan you explain what this drawing shows?"
+        "value": "Drawing: <img src='https:\\github.com\\simondpalmer\\AEC-DETAIL-vision\\blob\\main\\output_images\\drawing_6_0.png'></img>\nCan you explain what this drawing shows?"
       },
       {
         "from": "assistant",
-        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+        "value": "The specification List of Drawing Sheets for Architectural Abbreviations can be found in the following document: SECTION 00 01 15\nLIST OF DRAWING SHEETS\nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\tTitle\nSPEC WRITER NOTE: List drawing numbers and titles under the classifications and in the relative order listed below. See Sample Section 00 01 15, LIST OF DRAWINGS on back of this sheet.\n\tSITE PLANNING \n\tSUB-SURFACE \n\tARCHITECTURAL \n\tSTRUCTURAL \n\tSANITARY \n\tEQUIPMENT \n\tPLUMBING \n\tHEATING, VENTILATING, AIR \n\tCONDITIONING AND REFRIGERATION \n\tSTEAM GENERATION \n\tOUTSIDE STEAM DISTRIBUTION \n\tELECTRICAL \n- - - END - - -\n(SAMPLE LIST OF DRAWINGS) \nVAMC (NAME)\t\t\t\t\t\t\t\t\t(SPEC No.) \nSECTION 00 01 15 \nLIST OF DRAWINGS \nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\t\t\t\tTitle \n\tSITE PLANNING \nL1\tSite Plan \nL2\tPlanting Plan \nL3\tSite and Planting Details \n\tARCHITECTURAL \n30-1\tGround Floor Plan \n30-2\tElevations \n30-3\tWall Sections and Details \n30-4\tIndustrial Stair, Dock Leveler, Areaway \n\tSections and Details \n30-5\tReflected Ceiling Plan \n30-6\tSchedules \n- - - E N D - - -"
       }
     ]
   },
@@ -95,11 +95,11 @@
     "conversations": [
       {
         "from": "user",
-        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-08.pdf</img>\nCan you explain what this drawing shows?"
+        "value": "Drawing: <img src='https:\\github.com\\simondpalmer\\AEC-DETAIL-vision\\blob\\main\\output_images\\drawing_7_0.png'></img>\nCan you explain what this drawing shows?"
       },
       {
         "from": "assistant",
-        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+        "value": "The specification List of Drawing Sheets for Architectural Abbreviations can be found in the following document: SECTION 00 01 15\nLIST OF DRAWING SHEETS\nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\tTitle\nSPEC WRITER NOTE: List drawing numbers and titles under the classifications and in the relative order listed below. See Sample Section 00 01 15, LIST OF DRAWINGS on back of this sheet.\n\tSITE PLANNING \n\tSUB-SURFACE \n\tARCHITECTURAL \n\tSTRUCTURAL \n\tSANITARY \n\tEQUIPMENT \n\tPLUMBING \n\tHEATING, VENTILATING, AIR \n\tCONDITIONING AND REFRIGERATION \n\tSTEAM GENERATION \n\tOUTSIDE STEAM DISTRIBUTION \n\tELECTRICAL \n- - - END - - -\n(SAMPLE LIST OF DRAWINGS) \nVAMC (NAME)\t\t\t\t\t\t\t\t\t(SPEC No.) \nSECTION 00 01 15 \nLIST OF DRAWINGS \nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\t\t\t\tTitle \n\tSITE PLANNING \nL1\tSite Plan \nL2\tPlanting Plan \nL3\tSite and Planting Details \n\tARCHITECTURAL \n30-1\tGround Floor Plan \n30-2\tElevations \n30-3\tWall Sections and Details \n30-4\tIndustrial Stair, Dock Leveler, Areaway \n\tSections and Details \n30-5\tReflected Ceiling Plan \n30-6\tSchedules \n- - - E N D - - -"
       }
     ]
   },
@@ -108,11 +108,11 @@
     "conversations": [
       {
         "from": "user",
-        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-09.pdf</img>\nCan you explain what this drawing shows?"
+        "value": "Drawing: <img src='https:\\github.com\\simondpalmer\\AEC-DETAIL-vision\\blob\\main\\output_images\\drawing_8_0.png'></img>\nCan you explain what this drawing shows?"
       },
       {
         "from": "assistant",
-        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+        "value": "The specification List of Drawing Sheets for Architectural Abbreviations can be found in the following document: SECTION 00 01 15\nLIST OF DRAWING SHEETS\nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\tTitle\nSPEC WRITER NOTE: List drawing numbers and titles under the classifications and in the relative order listed below. See Sample Section 00 01 15, LIST OF DRAWINGS on back of this sheet.\n\tSITE PLANNING \n\tSUB-SURFACE \n\tARCHITECTURAL \n\tSTRUCTURAL \n\tSANITARY \n\tEQUIPMENT \n\tPLUMBING \n\tHEATING, VENTILATING, AIR \n\tCONDITIONING AND REFRIGERATION \n\tSTEAM GENERATION \n\tOUTSIDE STEAM DISTRIBUTION \n\tELECTRICAL \n- - - END - - -\n(SAMPLE LIST OF DRAWINGS) \nVAMC (NAME)\t\t\t\t\t\t\t\t\t(SPEC No.) \nSECTION 00 01 15 \nLIST OF DRAWINGS \nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\t\t\t\tTitle \n\tSITE PLANNING \nL1\tSite Plan \nL2\tPlanting Plan \nL3\tSite and Planting Details \n\tARCHITECTURAL \n30-1\tGround Floor Plan \n30-2\tElevations \n30-3\tWall Sections and Details \n30-4\tIndustrial Stair, Dock Leveler, Areaway \n\tSections and Details \n30-5\tReflected Ceiling Plan \n30-6\tSchedules \n- - - E N D - - -"
       }
     ]
   },
@@ -121,11 +121,11 @@
     "conversations": [
       {
         "from": "user",
-        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-10.pdf</img>\nCan you explain what this drawing shows?"
+        "value": "Drawing: <img src='https:\\github.com\\simondpalmer\\AEC-DETAIL-vision\\blob\\main\\output_images\\drawing_9_0.png'></img>\nCan you explain what this drawing shows?"
       },
       {
         "from": "assistant",
-        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+        "value": "The specification List of Drawing Sheets for Architectural Abbreviations can be found in the following document: SECTION 00 01 15\nLIST OF DRAWING SHEETS\nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\tTitle\nSPEC WRITER NOTE: List drawing numbers and titles under the classifications and in the relative order listed below. See Sample Section 00 01 15, LIST OF DRAWINGS on back of this sheet.\n\tSITE PLANNING \n\tSUB-SURFACE \n\tARCHITECTURAL \n\tSTRUCTURAL \n\tSANITARY \n\tEQUIPMENT \n\tPLUMBING \n\tHEATING, VENTILATING, AIR \n\tCONDITIONING AND REFRIGERATION \n\tSTEAM GENERATION \n\tOUTSIDE STEAM DISTRIBUTION \n\tELECTRICAL \n- - - END - - -\n(SAMPLE LIST OF DRAWINGS) \nVAMC (NAME)\t\t\t\t\t\t\t\t\t(SPEC No.) \nSECTION 00 01 15 \nLIST OF DRAWINGS \nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\t\t\t\tTitle \n\tSITE PLANNING \nL1\tSite Plan \nL2\tPlanting Plan \nL3\tSite and Planting Details \n\tARCHITECTURAL \n30-1\tGround Floor Plan \n30-2\tElevations \n30-3\tWall Sections and Details \n30-4\tIndustrial Stair, Dock Leveler, Areaway \n\tSections and Details \n30-5\tReflected Ceiling Plan \n30-6\tSchedules \n- - - E N D - - -"
       }
     ]
   },
@@ -134,11 +134,11 @@
     "conversations": [
       {
         "from": "user",
-        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-11.pdf</img>\nCan you explain what this drawing shows?"
+        "value": "Drawing: <img src='https:\\github.com\\simondpalmer\\AEC-DETAIL-vision\\blob\\main\\output_images\\drawing_10_0.png'></img>\nCan you explain what this drawing shows?"
       },
       {
         "from": "assistant",
-        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+        "value": "The specification List of Drawing Sheets for Architectural Abbreviations can be found in the following document: SECTION 00 01 15\nLIST OF DRAWING SHEETS\nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\tTitle\nSPEC WRITER NOTE: List drawing numbers and titles under the classifications and in the relative order listed below. See Sample Section 00 01 15, LIST OF DRAWINGS on back of this sheet.\n\tSITE PLANNING \n\tSUB-SURFACE \n\tARCHITECTURAL \n\tSTRUCTURAL \n\tSANITARY \n\tEQUIPMENT \n\tPLUMBING \n\tHEATING, VENTILATING, AIR \n\tCONDITIONING AND REFRIGERATION \n\tSTEAM GENERATION \n\tOUTSIDE STEAM DISTRIBUTION \n\tELECTRICAL \n- - - END - - -\n(SAMPLE LIST OF DRAWINGS) \nVAMC (NAME)\t\t\t\t\t\t\t\t\t(SPEC No.) \nSECTION 00 01 15 \nLIST OF DRAWINGS \nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\t\t\t\tTitle \n\tSITE PLANNING \nL1\tSite Plan \nL2\tPlanting Plan \nL3\tSite and Planting Details \n\tARCHITECTURAL \n30-1\tGround Floor Plan \n30-2\tElevations \n30-3\tWall Sections and Details \n30-4\tIndustrial Stair, Dock Leveler, Areaway \n\tSections and Details \n30-5\tReflected Ceiling Plan \n30-6\tSchedules \n- - - E N D - - -"
       }
     ]
   },
@@ -147,11 +147,11 @@
     "conversations": [
       {
         "from": "user",
-        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-12.pdf</img>\nCan you explain what this drawing shows?"
+        "value": "Drawing: <img src='https:\\github.com\\simondpalmer\\AEC-DETAIL-vision\\blob\\main\\output_images\\drawing_11_0.png'></img>\nCan you explain what this drawing shows?"
       },
       {
         "from": "assistant",
-        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+        "value": "The specification List of Drawing Sheets for Architectural Abbreviations can be found in the following document: SECTION 00 01 15\nLIST OF DRAWING SHEETS\nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\tTitle\nSPEC WRITER NOTE: List drawing numbers and titles under the classifications and in the relative order listed below. See Sample Section 00 01 15, LIST OF DRAWINGS on back of this sheet.\n\tSITE PLANNING \n\tSUB-SURFACE \n\tARCHITECTURAL \n\tSTRUCTURAL \n\tSANITARY \n\tEQUIPMENT \n\tPLUMBING \n\tHEATING, VENTILATING, AIR \n\tCONDITIONING AND REFRIGERATION \n\tSTEAM GENERATION \n\tOUTSIDE STEAM DISTRIBUTION \n\tELECTRICAL \n- - - END - - -\n(SAMPLE LIST OF DRAWINGS) \nVAMC (NAME)\t\t\t\t\t\t\t\t\t(SPEC No.) \nSECTION 00 01 15 \nLIST OF DRAWINGS \nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\t\t\t\tTitle \n\tSITE PLANNING \nL1\tSite Plan \nL2\tPlanting Plan \nL3\tSite and Planting Details \n\tARCHITECTURAL \n30-1\tGround Floor Plan \n30-2\tElevations \n30-3\tWall Sections and Details \n30-4\tIndustrial Stair, Dock Leveler, Areaway \n\tSections and Details \n30-5\tReflected Ceiling Plan \n30-6\tSchedules \n- - - E N D - - -"
       }
     ]
   },
@@ -160,11 +160,11 @@
     "conversations": [
       {
         "from": "user",
-        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-13.pdf</img>\nCan you explain what this drawing shows?"
+        "value": "Drawing: <img src='https:\\github.com\\simondpalmer\\AEC-DETAIL-vision\\blob\\main\\output_images\\drawing_12_0.png'></img>\nCan you explain what this drawing shows?"
       },
       {
         "from": "assistant",
-        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+        "value": "The specification List of Drawing Sheets for Architectural Abbreviations can be found in the following document: SECTION 00 01 15\nLIST OF DRAWING SHEETS\nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\tTitle\nSPEC WRITER NOTE: List drawing numbers and titles under the classifications and in the relative order listed below. See Sample Section 00 01 15, LIST OF DRAWINGS on back of this sheet.\n\tSITE PLANNING \n\tSUB-SURFACE \n\tARCHITECTURAL \n\tSTRUCTURAL \n\tSANITARY \n\tEQUIPMENT \n\tPLUMBING \n\tHEATING, VENTILATING, AIR \n\tCONDITIONING AND REFRIGERATION \n\tSTEAM GENERATION \n\tOUTSIDE STEAM DISTRIBUTION \n\tELECTRICAL \n- - - END - - -\n(SAMPLE LIST OF DRAWINGS) \nVAMC (NAME)\t\t\t\t\t\t\t\t\t(SPEC No.) \nSECTION 00 01 15 \nLIST OF DRAWINGS \nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\t\t\t\tTitle \n\tSITE PLANNING \nL1\tSite Plan \nL2\tPlanting Plan \nL3\tSite and Planting Details \n\tARCHITECTURAL \n30-1\tGround Floor Plan \n30-2\tElevations \n30-3\tWall Sections and Details \n30-4\tIndustrial Stair, Dock Leveler, Areaway \n\tSections and Details \n30-5\tReflected Ceiling Plan \n30-6\tSchedules \n- - - E N D - - -"
       }
     ]
   },
@@ -173,11 +173,11 @@
     "conversations": [
       {
         "from": "user",
-        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-14.pdf</img>\nCan you explain what this drawing shows?"
+        "value": "Drawing: <img src='https:\\github.com\\simondpalmer\\AEC-DETAIL-vision\\blob\\main\\output_images\\drawing_13_0.png'></img>\nCan you explain what this drawing shows?"
       },
       {
         "from": "assistant",
-        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+        "value": "The specification List of Drawing Sheets for Architectural Abbreviations can be found in the following document: SECTION 00 01 15\nLIST OF DRAWING SHEETS\nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\tTitle\nSPEC WRITER NOTE: List drawing numbers and titles under the classifications and in the relative order listed below. See Sample Section 00 01 15, LIST OF DRAWINGS on back of this sheet.\n\tSITE PLANNING \n\tSUB-SURFACE \n\tARCHITECTURAL \n\tSTRUCTURAL \n\tSANITARY \n\tEQUIPMENT \n\tPLUMBING \n\tHEATING, VENTILATING, AIR \n\tCONDITIONING AND REFRIGERATION \n\tSTEAM GENERATION \n\tOUTSIDE STEAM DISTRIBUTION \n\tELECTRICAL \n- - - END - - -\n(SAMPLE LIST OF DRAWINGS) \nVAMC (NAME)\t\t\t\t\t\t\t\t\t(SPEC No.) \nSECTION 00 01 15 \nLIST OF DRAWINGS \nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\t\t\t\tTitle \n\tSITE PLANNING \nL1\tSite Plan \nL2\tPlanting Plan \nL3\tSite and Planting Details \n\tARCHITECTURAL \n30-1\tGround Floor Plan \n30-2\tElevations \n30-3\tWall Sections and Details \n30-4\tIndustrial Stair, Dock Leveler, Areaway \n\tSections and Details \n30-5\tReflected Ceiling Plan \n30-6\tSchedules \n- - - E N D - - -"
       }
     ]
   },
@@ -186,11 +186,11 @@
     "conversations": [
       {
         "from": "user",
-        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-15.pdf</img>\nCan you explain what this drawing shows?"
+        "value": "Drawing: <img src='https:\\github.com\\simondpalmer\\AEC-DETAIL-vision\\blob\\main\\output_images\\drawing_14_0.png'></img>\nCan you explain what this drawing shows?"
       },
       {
         "from": "assistant",
-        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+        "value": "The specification List of Drawing Sheets for Architectural Abbreviations can be found in the following document: SECTION 00 01 15\nLIST OF DRAWING SHEETS\nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\tTitle\nSPEC WRITER NOTE: List drawing numbers and titles under the classifications and in the relative order listed below. See Sample Section 00 01 15, LIST OF DRAWINGS on back of this sheet.\n\tSITE PLANNING \n\tSUB-SURFACE \n\tARCHITECTURAL \n\tSTRUCTURAL \n\tSANITARY \n\tEQUIPMENT \n\tPLUMBING \n\tHEATING, VENTILATING, AIR \n\tCONDITIONING AND REFRIGERATION \n\tSTEAM GENERATION \n\tOUTSIDE STEAM DISTRIBUTION \n\tELECTRICAL \n- - - END - - -\n(SAMPLE LIST OF DRAWINGS) \nVAMC (NAME)\t\t\t\t\t\t\t\t\t(SPEC No.) \nSECTION 00 01 15 \nLIST OF DRAWINGS \nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\t\t\t\tTitle \n\tSITE PLANNING \nL1\tSite Plan \nL2\tPlanting Plan \nL3\tSite and Planting Details \n\tARCHITECTURAL \n30-1\tGround Floor Plan \n30-2\tElevations \n30-3\tWall Sections and Details \n30-4\tIndustrial Stair, Dock Leveler, Areaway \n\tSections and Details \n30-5\tReflected Ceiling Plan \n30-6\tSchedules \n- - - E N D - - -"
       }
     ]
   },
@@ -199,11 +199,11 @@
     "conversations": [
       {
         "from": "user",
-        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-16.pdf</img>\nCan you explain what this drawing shows?"
+        "value": "Drawing: <img src='https:\\github.com\\simondpalmer\\AEC-DETAIL-vision\\blob\\main\\output_images\\drawing_15_0.png'></img>\nCan you explain what this drawing shows?"
       },
       {
         "from": "assistant",
-        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+        "value": "The specification List of Drawing Sheets for Architectural Abbreviations can be found in the following document: SECTION 00 01 15\nLIST OF DRAWING SHEETS\nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\tTitle\nSPEC WRITER NOTE: List drawing numbers and titles under the classifications and in the relative order listed below. See Sample Section 00 01 15, LIST OF DRAWINGS on back of this sheet.\n\tSITE PLANNING \n\tSUB-SURFACE \n\tARCHITECTURAL \n\tSTRUCTURAL \n\tSANITARY \n\tEQUIPMENT \n\tPLUMBING \n\tHEATING, VENTILATING, AIR \n\tCONDITIONING AND REFRIGERATION \n\tSTEAM GENERATION \n\tOUTSIDE STEAM DISTRIBUTION \n\tELECTRICAL \n- - - END - - -\n(SAMPLE LIST OF DRAWINGS) \nVAMC (NAME)\t\t\t\t\t\t\t\t\t(SPEC No.) \nSECTION 00 01 15 \nLIST OF DRAWINGS \nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\t\t\t\tTitle \n\tSITE PLANNING \nL1\tSite Plan \nL2\tPlanting Plan \nL3\tSite and Planting Details \n\tARCHITECTURAL \n30-1\tGround Floor Plan \n30-2\tElevations \n30-3\tWall Sections and Details \n30-4\tIndustrial Stair, Dock Leveler, Areaway \n\tSections and Details \n30-5\tReflected Ceiling Plan \n30-6\tSchedules \n- - - E N D - - -"
       }
     ]
   },
@@ -212,11 +212,11 @@
     "conversations": [
       {
         "from": "user",
-        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-17.pdf</img>\nCan you explain what this drawing shows?"
+        "value": "Drawing: <img src='https:\\github.com\\simondpalmer\\AEC-DETAIL-vision\\blob\\main\\output_images\\drawing_16_0.png'></img>\nCan you explain what this drawing shows?"
       },
       {
         "from": "assistant",
-        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+        "value": "The specification List of Drawing Sheets for Architectural Abbreviations can be found in the following document: SECTION 00 01 15\nLIST OF DRAWING SHEETS\nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\tTitle\nSPEC WRITER NOTE: List drawing numbers and titles under the classifications and in the relative order listed below. See Sample Section 00 01 15, LIST OF DRAWINGS on back of this sheet.\n\tSITE PLANNING \n\tSUB-SURFACE \n\tARCHITECTURAL \n\tSTRUCTURAL \n\tSANITARY \n\tEQUIPMENT \n\tPLUMBING \n\tHEATING, VENTILATING, AIR \n\tCONDITIONING AND REFRIGERATION \n\tSTEAM GENERATION \n\tOUTSIDE STEAM DISTRIBUTION \n\tELECTRICAL \n- - - END - - -\n(SAMPLE LIST OF DRAWINGS) \nVAMC (NAME)\t\t\t\t\t\t\t\t\t(SPEC No.) \nSECTION 00 01 15 \nLIST OF DRAWINGS \nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\t\t\t\tTitle \n\tSITE PLANNING \nL1\tSite Plan \nL2\tPlanting Plan \nL3\tSite and Planting Details \n\tARCHITECTURAL \n30-1\tGround Floor Plan \n30-2\tElevations \n30-3\tWall Sections and Details \n30-4\tIndustrial Stair, Dock Leveler, Areaway \n\tSections and Details \n30-5\tReflected Ceiling Plan \n30-6\tSchedules \n- - - E N D - - -"
       }
     ]
   },
@@ -225,11 +225,11 @@
     "conversations": [
       {
         "from": "user",
-        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-18.pdf</img>\nCan you explain what this drawing shows?"
+        "value": "Drawing: <img src='https:\\github.com\\simondpalmer\\AEC-DETAIL-vision\\blob\\main\\output_images\\drawing_17_0.png'></img>\nCan you explain what this drawing shows?"
       },
       {
         "from": "assistant",
-        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+        "value": "The specification List of Drawing Sheets for Architectural Abbreviations can be found in the following document: SECTION 00 01 15\nLIST OF DRAWING SHEETS\nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\tTitle\nSPEC WRITER NOTE: List drawing numbers and titles under the classifications and in the relative order listed below. See Sample Section 00 01 15, LIST OF DRAWINGS on back of this sheet.\n\tSITE PLANNING \n\tSUB-SURFACE \n\tARCHITECTURAL \n\tSTRUCTURAL \n\tSANITARY \n\tEQUIPMENT \n\tPLUMBING \n\tHEATING, VENTILATING, AIR \n\tCONDITIONING AND REFRIGERATION \n\tSTEAM GENERATION \n\tOUTSIDE STEAM DISTRIBUTION \n\tELECTRICAL \n- - - END - - -\n(SAMPLE LIST OF DRAWINGS) \nVAMC (NAME)\t\t\t\t\t\t\t\t\t(SPEC No.) \nSECTION 00 01 15 \nLIST OF DRAWINGS \nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\t\t\t\tTitle \n\tSITE PLANNING \nL1\tSite Plan \nL2\tPlanting Plan \nL3\tSite and Planting Details \n\tARCHITECTURAL \n30-1\tGround Floor Plan \n30-2\tElevations \n30-3\tWall Sections and Details \n30-4\tIndustrial Stair, Dock Leveler, Areaway \n\tSections and Details \n30-5\tReflected Ceiling Plan \n30-6\tSchedules \n- - - E N D - - -"
       }
     ]
   },
@@ -238,11 +238,11 @@
     "conversations": [
       {
         "from": "user",
-        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-19.pdf</img>\nCan you explain what this drawing shows?"
+        "value": "Drawing: <img src='https:\\github.com\\simondpalmer\\AEC-DETAIL-vision\\blob\\main\\output_images\\drawing_18_0.png'></img>\nCan you explain what this drawing shows?"
       },
       {
         "from": "assistant",
-        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+        "value": "The specification List of Drawing Sheets for Architectural Abbreviations can be found in the following document: SECTION 00 01 15\nLIST OF DRAWING SHEETS\nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\tTitle\nSPEC WRITER NOTE: List drawing numbers and titles under the classifications and in the relative order listed below. See Sample Section 00 01 15, LIST OF DRAWINGS on back of this sheet.\n\tSITE PLANNING \n\tSUB-SURFACE \n\tARCHITECTURAL \n\tSTRUCTURAL \n\tSANITARY \n\tEQUIPMENT \n\tPLUMBING \n\tHEATING, VENTILATING, AIR \n\tCONDITIONING AND REFRIGERATION \n\tSTEAM GENERATION \n\tOUTSIDE STEAM DISTRIBUTION \n\tELECTRICAL \n- - - END - - -\n(SAMPLE LIST OF DRAWINGS) \nVAMC (NAME)\t\t\t\t\t\t\t\t\t(SPEC No.) \nSECTION 00 01 15 \nLIST OF DRAWINGS \nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\t\t\t\tTitle \n\tSITE PLANNING \nL1\tSite Plan \nL2\tPlanting Plan \nL3\tSite and Planting Details \n\tARCHITECTURAL \n30-1\tGround Floor Plan \n30-2\tElevations \n30-3\tWall Sections and Details \n30-4\tIndustrial Stair, Dock Leveler, Areaway \n\tSections and Details \n30-5\tReflected Ceiling Plan \n30-6\tSchedules \n- - - E N D - - -"
       }
     ]
   },
@@ -251,11 +251,11 @@
     "conversations": [
       {
         "from": "user",
-        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-20.pdf</img>\nCan you explain what this drawing shows?"
+        "value": "Drawing: <img src='https:\\github.com\\simondpalmer\\AEC-DETAIL-vision\\blob\\main\\output_images\\drawing_19_0.png'></img>\nCan you explain what this drawing shows?"
       },
       {
         "from": "assistant",
-        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+        "value": "The specification List of Drawing Sheets for Architectural Abbreviations can be found in the following document: SECTION 00 01 15\nLIST OF DRAWING SHEETS\nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\tTitle\nSPEC WRITER NOTE: List drawing numbers and titles under the classifications and in the relative order listed below. See Sample Section 00 01 15, LIST OF DRAWINGS on back of this sheet.\n\tSITE PLANNING \n\tSUB-SURFACE \n\tARCHITECTURAL \n\tSTRUCTURAL \n\tSANITARY \n\tEQUIPMENT \n\tPLUMBING \n\tHEATING, VENTILATING, AIR \n\tCONDITIONING AND REFRIGERATION \n\tSTEAM GENERATION \n\tOUTSIDE STEAM DISTRIBUTION \n\tELECTRICAL \n- - - END - - -\n(SAMPLE LIST OF DRAWINGS) \nVAMC (NAME)\t\t\t\t\t\t\t\t\t(SPEC No.) \nSECTION 00 01 15 \nLIST OF DRAWINGS \nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\t\t\t\tTitle \n\tSITE PLANNING \nL1\tSite Plan \nL2\tPlanting Plan \nL3\tSite and Planting Details \n\tARCHITECTURAL \n30-1\tGround Floor Plan \n30-2\tElevations \n30-3\tWall Sections and Details \n30-4\tIndustrial Stair, Dock Leveler, Areaway \n\tSections and Details \n30-5\tReflected Ceiling Plan \n30-6\tSchedules \n- - - E N D - - -"
       }
     ]
   },
@@ -264,11 +264,11 @@
     "conversations": [
       {
         "from": "user",
-        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-21.pdf</img>\nCan you explain what this drawing shows?"
+        "value": "Drawing: <img src='https:\\github.com\\simondpalmer\\AEC-DETAIL-vision\\blob\\main\\output_images\\drawing_20_0.png'></img>\nCan you explain what this drawing shows?"
       },
       {
         "from": "assistant",
-        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+        "value": "The specification List of Drawing Sheets for Architectural Abbreviations can be found in the following document: SECTION 00 01 15\nLIST OF DRAWING SHEETS\nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\tTitle\nSPEC WRITER NOTE: List drawing numbers and titles under the classifications and in the relative order listed below. See Sample Section 00 01 15, LIST OF DRAWINGS on back of this sheet.\n\tSITE PLANNING \n\tSUB-SURFACE \n\tARCHITECTURAL \n\tSTRUCTURAL \n\tSANITARY \n\tEQUIPMENT \n\tPLUMBING \n\tHEATING, VENTILATING, AIR \n\tCONDITIONING AND REFRIGERATION \n\tSTEAM GENERATION \n\tOUTSIDE STEAM DISTRIBUTION \n\tELECTRICAL \n- - - END - - -\n(SAMPLE LIST OF DRAWINGS) \nVAMC (NAME)\t\t\t\t\t\t\t\t\t(SPEC No.) \nSECTION 00 01 15 \nLIST OF DRAWINGS \nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\t\t\t\tTitle \n\tSITE PLANNING \nL1\tSite Plan \nL2\tPlanting Plan \nL3\tSite and Planting Details \n\tARCHITECTURAL \n30-1\tGround Floor Plan \n30-2\tElevations \n30-3\tWall Sections and Details \n30-4\tIndustrial Stair, Dock Leveler, Areaway \n\tSections and Details \n30-5\tReflected Ceiling Plan \n30-6\tSchedules \n- - - E N D - - -"
       }
     ]
   },
@@ -277,11 +277,11 @@
     "conversations": [
       {
         "from": "user",
-        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-22.pdf</img>\nCan you explain what this drawing shows?"
+        "value": "Drawing: <img src='https:\\github.com\\simondpalmer\\AEC-DETAIL-vision\\blob\\main\\output_images\\drawing_21_0.png'></img>\nCan you explain what this drawing shows?"
       },
       {
         "from": "assistant",
-        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+        "value": "The specification List of Drawing Sheets for Architectural Abbreviations can be found in the following document: SECTION 00 01 15\nLIST OF DRAWING SHEETS\nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\tTitle\nSPEC WRITER NOTE: List drawing numbers and titles under the classifications and in the relative order listed below. See Sample Section 00 01 15, LIST OF DRAWINGS on back of this sheet.\n\tSITE PLANNING \n\tSUB-SURFACE \n\tARCHITECTURAL \n\tSTRUCTURAL \n\tSANITARY \n\tEQUIPMENT \n\tPLUMBING \n\tHEATING, VENTILATING, AIR \n\tCONDITIONING AND REFRIGERATION \n\tSTEAM GENERATION \n\tOUTSIDE STEAM DISTRIBUTION \n\tELECTRICAL \n- - - END - - -\n(SAMPLE LIST OF DRAWINGS) \nVAMC (NAME)\t\t\t\t\t\t\t\t\t(SPEC No.) \nSECTION 00 01 15 \nLIST OF DRAWINGS \nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\t\t\t\tTitle \n\tSITE PLANNING \nL1\tSite Plan \nL2\tPlanting Plan \nL3\tSite and Planting Details \n\tARCHITECTURAL \n30-1\tGround Floor Plan \n30-2\tElevations \n30-3\tWall Sections and Details \n30-4\tIndustrial Stair, Dock Leveler, Areaway \n\tSections and Details \n30-5\tReflected Ceiling Plan \n30-6\tSchedules \n- - - E N D - - -"
       }
     ]
   },
@@ -290,11 +290,11 @@
     "conversations": [
       {
         "from": "user",
-        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-23.pdf</img>\nCan you explain what this drawing shows?"
+        "value": "Drawing: <img src='https:\\github.com\\simondpalmer\\AEC-DETAIL-vision\\blob\\main\\output_images\\drawing_22_0.png'></img>\nCan you explain what this drawing shows?"
       },
       {
         "from": "assistant",
-        "value": "The specification for Architectural Abbreviations can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+        "value": "The specification List of Drawing Sheets for Architectural Abbreviations can be found in the following document: SECTION 00 01 15\nLIST OF DRAWING SHEETS\nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\tTitle\nSPEC WRITER NOTE: List drawing numbers and titles under the classifications and in the relative order listed below. See Sample Section 00 01 15, LIST OF DRAWINGS on back of this sheet.\n\tSITE PLANNING \n\tSUB-SURFACE \n\tARCHITECTURAL \n\tSTRUCTURAL \n\tSANITARY \n\tEQUIPMENT \n\tPLUMBING \n\tHEATING, VENTILATING, AIR \n\tCONDITIONING AND REFRIGERATION \n\tSTEAM GENERATION \n\tOUTSIDE STEAM DISTRIBUTION \n\tELECTRICAL \n- - - END - - -\n(SAMPLE LIST OF DRAWINGS) \nVAMC (NAME)\t\t\t\t\t\t\t\t\t(SPEC No.) \nSECTION 00 01 15 \nLIST OF DRAWINGS \nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\t\t\t\tTitle \n\tSITE PLANNING \nL1\tSite Plan \nL2\tPlanting Plan \nL3\tSite and Planting Details \n\tARCHITECTURAL \n30-1\tGround Floor Plan \n30-2\tElevations \n30-3\tWall Sections and Details \n30-4\tIndustrial Stair, Dock Leveler, Areaway \n\tSections and Details \n30-5\tReflected Ceiling Plan \n30-6\tSchedules \n- - - E N D - - -"
       }
     ]
   },
@@ -303,11 +303,11 @@
     "conversations": [
       {
         "from": "user",
-        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-24.pdf</img>\nCan you explain what this drawing shows?"
+        "value": "Drawing: <img src='https:\\github.com\\simondpalmer\\AEC-DETAIL-vision\\blob\\main\\output_images\\drawing_23_0.png'></img>\nCan you explain what this drawing shows?"
       },
       {
         "from": "assistant",
-        "value": "The specification for Architectural Symbols can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+        "value": "The specification List of Drawing Sheets for Architectural Symbols can be found in the following document: SECTION 00 01 15\nLIST OF DRAWING SHEETS\nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\tTitle\nSPEC WRITER NOTE: List drawing numbers and titles under the classifications and in the relative order listed below. See Sample Section 00 01 15, LIST OF DRAWINGS on back of this sheet.\n\tSITE PLANNING \n\tSUB-SURFACE \n\tARCHITECTURAL \n\tSTRUCTURAL \n\tSANITARY \n\tEQUIPMENT \n\tPLUMBING \n\tHEATING, VENTILATING, AIR \n\tCONDITIONING AND REFRIGERATION \n\tSTEAM GENERATION \n\tOUTSIDE STEAM DISTRIBUTION \n\tELECTRICAL \n- - - END - - -\n(SAMPLE LIST OF DRAWINGS) \nVAMC (NAME)\t\t\t\t\t\t\t\t\t(SPEC No.) \nSECTION 00 01 15 \nLIST OF DRAWINGS \nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\t\t\t\tTitle \n\tSITE PLANNING \nL1\tSite Plan \nL2\tPlanting Plan \nL3\tSite and Planting Details \n\tARCHITECTURAL \n30-1\tGround Floor Plan \n30-2\tElevations \n30-3\tWall Sections and Details \n30-4\tIndustrial Stair, Dock Leveler, Areaway \n\tSections and Details \n30-5\tReflected Ceiling Plan \n30-6\tSchedules \n- - - E N D - - -"
       }
     ]
   },
@@ -316,11 +316,11 @@
     "conversations": [
       {
         "from": "user",
-        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-25.pdf</img>\nCan you explain what this drawing shows?"
+        "value": "Drawing: <img src='https:\\github.com\\simondpalmer\\AEC-DETAIL-vision\\blob\\main\\output_images\\drawing_24_0.png'></img>\nCan you explain what this drawing shows?"
       },
       {
         "from": "assistant",
-        "value": "The specification for Architectural Symbols can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+        "value": "The specification List of Drawing Sheets for Architectural Symbols can be found in the following document: SECTION 00 01 15\nLIST OF DRAWING SHEETS\nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\tTitle\nSPEC WRITER NOTE: List drawing numbers and titles under the classifications and in the relative order listed below. See Sample Section 00 01 15, LIST OF DRAWINGS on back of this sheet.\n\tSITE PLANNING \n\tSUB-SURFACE \n\tARCHITECTURAL \n\tSTRUCTURAL \n\tSANITARY \n\tEQUIPMENT \n\tPLUMBING \n\tHEATING, VENTILATING, AIR \n\tCONDITIONING AND REFRIGERATION \n\tSTEAM GENERATION \n\tOUTSIDE STEAM DISTRIBUTION \n\tELECTRICAL \n- - - END - - -\n(SAMPLE LIST OF DRAWINGS) \nVAMC (NAME)\t\t\t\t\t\t\t\t\t(SPEC No.) \nSECTION 00 01 15 \nLIST OF DRAWINGS \nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\t\t\t\tTitle \n\tSITE PLANNING \nL1\tSite Plan \nL2\tPlanting Plan \nL3\tSite and Planting Details \n\tARCHITECTURAL \n30-1\tGround Floor Plan \n30-2\tElevations \n30-3\tWall Sections and Details \n30-4\tIndustrial Stair, Dock Leveler, Areaway \n\tSections and Details \n30-5\tReflected Ceiling Plan \n30-6\tSchedules \n- - - E N D - - -"
       }
     ]
   },
@@ -329,11 +329,11 @@
     "conversations": [
       {
         "from": "user",
-        "value": "Drawing 1: <img>https://www.cfm.va.gov/til/sDetail/Div00SpclSect/SD000115-26.pdf</img>\nCan you explain what this drawing shows?"
+        "value": "Drawing: <img src='https:\\github.com\\simondpalmer\\AEC-DETAIL-vision\\blob\\main\\output_images\\drawing_25_0.png'></img>\nCan you explain what this drawing shows?"
       },
       {
         "from": "assistant",
-        "value": "The specification for Architectural Symbols can be found in document: https://www.cfm.va.gov/TIL/spec/000115.docx"
+        "value": "The specification List of Drawing Sheets for Architectural Symbols can be found in the following document: SECTION 00 01 15\nLIST OF DRAWING SHEETS\nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\tTitle\nSPEC WRITER NOTE: List drawing numbers and titles under the classifications and in the relative order listed below. See Sample Section 00 01 15, LIST OF DRAWINGS on back of this sheet.\n\tSITE PLANNING \n\tSUB-SURFACE \n\tARCHITECTURAL \n\tSTRUCTURAL \n\tSANITARY \n\tEQUIPMENT \n\tPLUMBING \n\tHEATING, VENTILATING, AIR \n\tCONDITIONING AND REFRIGERATION \n\tSTEAM GENERATION \n\tOUTSIDE STEAM DISTRIBUTION \n\tELECTRICAL \n- - - END - - -\n(SAMPLE LIST OF DRAWINGS) \nVAMC (NAME)\t\t\t\t\t\t\t\t\t(SPEC No.) \nSECTION 00 01 15 \nLIST OF DRAWINGS \nThe drawings listed below accompanying this specification form a part of the contract. \nDrawing No.\t\t\t\tTitle \n\tSITE PLANNING \nL1\tSite Plan \nL2\tPlanting Plan \nL3\tSite and Planting Details \n\tARCHITECTURAL \n30-1\tGround Floor Plan \n30-2\tElevations \n30-3\tWall Sections and Details \n30-4\tIndustrial Stair, Dock Leveler, Areaway \n\tSections and Details \n30-5\tReflected Ceiling Plan \n30-6\tSchedules \n- - - E N D - - -"
       }
     ]
   }
