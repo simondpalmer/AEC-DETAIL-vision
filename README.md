@@ -15,15 +15,15 @@ run the following:
 $ poetry run main.py
 ```
 
-### Datasets
+### DataFrames
 
-#### Specification dataset
+#### Specification Frame
 
 | number  | title                    | body                                        | link                                          |
 | ------- | ------------------------ | ------------------------------------------- | --------------------------------------------- |
 | 00 01 15| List of Drawing Sheets   | SECTION 00 01 15\nLIST OF DRAWING SHEETS\nThe.. | https://www.cfm.va.gov/TIL/spec/000110.docx   |
 
-#### Detail dataset
+#### Detail Frame
 
 | number     | title                         | images      | link                                                               |
 | ---------- | ----------------------------- | ----------- | ------------------------------------------------------------------ |
