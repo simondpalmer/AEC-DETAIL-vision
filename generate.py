@@ -4,6 +4,7 @@ import replicate
 from replicate.exceptions import ModelError
 
 import os
+import json
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -15,6 +16,7 @@ rep_token = os.getenv('REPLICATE_API_TOKEN')
 
 # Define the directory where images are stored
 output_base_dir = "data"
+output_jsonl_file = os.path.join(output_base_dir, "metadata.jsonl")
 
 details_df= pd.read_pickle("details_df.pkl")
 specs_df= pd.read_pickle("specs_df.pkl")
@@ -65,8 +67,15 @@ print(final_df)
 
 final_df.insert(loc=3, column='detail_description', value=None)
 
+# Helper function to save DataFrame to JSONL
+def save_df_to_jsonl(df, filepath):
+    """Save DataFrame as a JSON Lines file."""
+    with open(filepath, 'w') as f:
+        for record in df.to_dict(orient='records'):
+            f.write(json.dumps(record) + '\n')
+
 # Process each file in the directory
-for filename in os.listdir(output_base_dir):
+for file_counter, filename in enumerate(os.listdir(output_base_dir), 1):
     full_image_path = os.path.join(output_base_dir, filename)
 
     # Verify the file is an image
@@ -95,7 +104,7 @@ for filename in os.listdir(output_base_dir):
 
                     result = "".join(output)
 
-                    # Construct conversation entry
+                    # Construct description entry
                     image_description = [
                         {
                             "from": "user",
@@ -111,10 +120,17 @@ for filename in os.listdir(output_base_dir):
                     final_df.at[index, 'detail_description'] = image_description
                     final_df.at[index, 'detail_link'] = image_url
 
-                except ModelError as e:
-                    if "(some known issue)" in e.prediction.logs:
-                        pass
-                    print("Failed prediction: " + e.prediction.id)
+                except Exception as e:
+                    print("Failed prediction: " + str(e))
+    
+    # Periodically save the DataFrame after a certain number of images
+    if file_counter % 10 == 0:  # Save every 10 images, adjust as needed
+        save_df_to_jsonl(final_df, output_jsonl_file)
+        print(f"Periodic save completed after processing {file_counter} files.")
+
+# Final save after all files processed
+save_df_to_jsonl(final_df, output_jsonl_file)
+print(f"Final DataFrame saved to {output_jsonl_file}")
 
 # Save the DataFrame as a JSON Lines file
 output_jsonl_file = os.path.join(output_base_dir, "metadata.jsonl")
